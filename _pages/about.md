@@ -18,7 +18,6 @@ latest_posts: true # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 
 ---
-**Under Construction -- Template Update**
 
 Hi -- I'm a PhD candidate in Cybersecurity at Northeastern University, advised by [David Choffnes](https:/david.choffnes.com), [Woodrow Hartzog](https://woodrowhartzog.com), and [Christo Wilson](https://cbw.sh). Starting July 2024, I'll be an Assistant Professor of CS and Law at the [Maastricht University Law and Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab). I earned my M.S. in Cybersecurity as an [ALIGN Scholar](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) and my B.A. in Political Science & International Affairs from Northeastern University.
 
