@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.khoury.northeastern.edu/">Northeastern University</a>, <a href="https://cyber.khoury.northeastern.edu/">Cybersecurity and Privacy Institute</a> 
+subtitle: <a href="https://www.khoury.northeastern.edu/">Northeastern University</a>, <a href="https://cyber.khoury.northeastern.edu/">Cybersecurity and Privacy Institute</a> 
 
 profile:
   align: right
@@ -16,6 +16,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 latest_posts: true # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
+
 ---
 **Under Construction -- Template Update**
 
