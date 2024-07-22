@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.maastrichtuniversity.nl/">Maastricht University</a>, <a href="https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab">Law and Tech Lab</a> | <a href="https://www.khoury.northeastern.edu/">Northeastern University</a>, <a href="https://cyber.khoury.northeastern.edu/">Cybersecurity and Privacy Institute</a>
+subtitle: <a href="https://www.maastrichtuniversity.nl/">Maastricht University</a>, <a href="https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab">Law and Tech Lab</a>
 
 profile:
   align: right
