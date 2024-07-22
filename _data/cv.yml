@@ -118,15 +118,17 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Human-Computer Interaction
+    - title: Computer Science
       items:
-        - UX Design
-    - title: Topic 2.
+        - Dark patterns, UX, and design
+        - Usable security and privacy
+        - Emerging technologies
+    - title: Technology Policy
       items:
-        - Description 1.
-        - Description 2.
+        - Digital consumer protections
+        - Data protection and privacy
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Cooking, travel, chasing after four pets
