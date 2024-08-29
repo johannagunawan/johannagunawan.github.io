@@ -23,6 +23,6 @@ My research spans UX, privacy, consumer protections, and law. At present, I'm fo
 
 In industry, I've interned at [Common Sense Media's Privacy Program](https://privacy.commonsense.org/), Vimeo's Governance, Risk, Compliance, and Privacy team, and previously wrote docs for Rapid7 and Akamai Technologies (Network Standards).
 
-Academically, I've been a visiting PhD intern with [Yixin Zhou](https://yixinzou.github.io/) at the [Max Planck Institute of Security and Privacy](https://www.mpi-sp.org/), and earned my M.S. in Cybersecurity as an [ALIGN Scholar](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) as well as a B.A. in Political Science & International Affairs at Northeastern University.
+Academically, I've been a visiting PhD intern with [Yixin Zou](https://yixinzou.github.io/) at the [Max Planck Institute of Security and Privacy](https://www.mpi-sp.org/), and earned my M.S. in Cybersecurity as an [ALIGN Scholar](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) as well as a B.A. in Political Science & International Affairs at Northeastern University.
 
 <!-- 🖖 Outside of work, I'm usually chasing after [three rambunctious kitties and one young corgi](https://www.instagram.com/umamicats/) 🐱, hand-pleating different types of dumplings, and deep-diving into random topics (like the 1996 Mt. Everest disaster 🏔).--> <a rel="me" href="https://hci.social/@johannagunawan"></a>
