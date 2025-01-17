@@ -79,18 +79,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
-      
-        title: "a post with image galleries",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/photo-gallery/";
-        
-      },
-    },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+            },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
         title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -101,224 +90,15 @@ ninja.data = [{
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
         
       },
-    },{id: "post-a-post-with-tabs",
+    },{id: "post-on-the-escapability-of-marketing-emails",
       
-        title: "a post with tabs",
+        title: "On the escapability of marketing emails",
       
-      description: "this is what included tabs in a post could look like",
+      description: "Notes from a personal experience with Xfinity&#39;s email advertisements",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/tabs/";
-        
-      },
-    },{id: "post-a-post-with-typograms",
-      
-        title: "a post with typograms",
-      
-      description: "this is what included typograms code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/typograms/";
-        
-      },
-    },{id: "post-a-post-that-can-be-cited",
-      
-        title: "a post that can be cited",
-      
-      description: "this is what a post that can be cited looks like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/post-citation/";
-        
-      },
-    },{id: "post-a-post-with-pseudo-code",
-      
-        title: "a post with pseudo code",
-      
-      description: "this is what included pseudo code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/pseudocode/";
-        
-      },
-    },{id: "post-a-post-with-code-diff",
-      
-        title: "a post with code diff",
-      
-      description: "this is how you can display code diffs",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/code-diff/";
-        
-      },
-    },{id: "post-a-post-with-advanced-image-components",
-      
-        title: "a post with advanced image components",
-      
-      description: "this is what advanced image components could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/advanced-images/";
-        
-      },
-    },{id: "post-a-post-with-vega-lite",
-      
-        title: "a post with vega lite",
-      
-      description: "this is what included vega lite code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/vega-lite/";
-        
-      },
-    },{id: "post-a-post-with-geojson",
-      
-        title: "a post with geojson",
-      
-      description: "this is what included geojson code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/geojson-map/";
-        
-      },
-    },{id: "post-a-post-with-echarts",
-      
-        title: "a post with echarts",
-      
-      description: "this is what included echarts code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/echarts/";
-        
-      },
-    },{id: "post-a-post-with-chart-js",
-      
-        title: "a post with chart.js",
-      
-      description: "this is what included chart.js code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/chartjs/";
-        
-      },
-    },{id: "post-a-post-with-tikzjax",
-      
-        title: "a post with TikZJax",
-      
-      description: "this is what included TikZ code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/tikzjax/";
-        
-      },
-    },{id: "post-a-post-with-bibliography",
-      
-        title: "a post with bibliography",
-      
-      description: "an example of a blog post with bibliography",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/post-bibliography/";
-        
-      },
-    },{id: "post-a-post-with-jupyter-notebook",
-      
-        title: "a post with jupyter notebook",
-      
-      description: "an example of a blog post with jupyter notebook",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/jupyter-notebook/";
-        
-      },
-    },{id: "post-a-post-with-custom-blockquotes",
-      
-        title: "a post with custom blockquotes",
-      
-      description: "an example of a blog post with custom blockquotes",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/custom-blockquotes/";
-        
-      },
-    },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-      
-        title: "a post with table of contents on a sidebar",
-      
-      description: "an example of a blog post with table of contents on a sidebar",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/sidebar-table-of-contents/";
-        
-      },
-    },{id: "post-a-post-with-audios",
-      
-        title: "a post with audios",
-      
-      description: "this is what included audios could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/audios/";
-        
-      },
-    },{id: "post-a-post-with-videos",
-      
-        title: "a post with videos",
-      
-      description: "this is what included videos could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/videos/";
-        
-      },
-    },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-      
-        title: "displaying beautiful tables with Bootstrap Tables",
-      
-      description: "an example of how to use Bootstrap Tables",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/tables/";
-        
-      },
-    },{id: "post-a-post-with-table-of-contents",
-      
-        title: "a post with table of contents",
-      
-      description: "an example of a blog post with table of contents",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/table-of-contents/";
-        
-      },
-    },{id: "post-a-post-with-giscus-comments",
-      
-        title: "a post with giscus comments",
-      
-      description: "an example of a blog post with giscus comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2022/giscus-comments/";
+          window.location.href = "/blog/2022/xfinity-email-opts/";
         
       },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -332,105 +112,6 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "post-a-post-with-redirect",
-      
-        title: "a post with redirect",
-      
-      description: "you can also redirect to assets like pdf",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/assets/pdf/example_pdf.pdf";
-        
-      },
-    },{id: "post-a-post-with-diagrams",
-      
-        title: "a post with diagrams",
-      
-      description: "an example of a blog post with diagrams",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/diagrams/";
-        
-      },
-    },{id: "post-a-distill-style-blog-post",
-      
-        title: "a distill-style blog post",
-      
-      description: "an example of a distill-style blog post and main elements",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/distill/";
-        
-      },
-    },{id: "post-a-post-with-twitter",
-      
-        title: "a post with twitter",
-      
-      description: "an example of a blog post with twitter",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2020/twitter/";
-        
-      },
-    },{id: "post-a-post-with-disqus-comments",
-      
-        title: "a post with disqus comments",
-      
-      description: "an example of a blog post with disqus comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/disqus-comments/";
-        
-      },
-    },{id: "post-a-post-with-math",
-      
-        title: "a post with math",
-      
-      description: "an example of a blog post with some math",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/math/";
-        
-      },
-    },{id: "post-a-post-with-code",
-      
-        title: "a post with code",
-      
-      description: "an example of a blog post with some code",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/code/";
-        
-      },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
-        
-      },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
-        
-      },
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -441,6 +122,139 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-after-starting-the-align-program-in-2017-i-finally-received-my-m-s-in-cybersecurity-so-it-s-now-official",
+          title: 'After starting the ALIGN program, in 2017, I finally received my M.S. in...',
+          description: "",
+          section: "News",},{id: "news-thank-you-to-the-seton-hall-university-law-school-for-having-me-on-behalf-of-my-co-authors-on-a-panel-discussing-privacy-issues-in-the-wake-of-covid-19-please-look-forward-to-our-article-in-the-symposium-book-next-summer",
+          title: 'Thank you to the Seton Hall University Law School for having me (on...',
+          description: "",
+          section: "News",},{id: "news-woody-hartzog-and-i-wrote-a-case-study-for-the-mit-social-and-ethical-responsibilities-of-computing-casebook-we-used-it-ourselves-in-cy4170-here-at-nu",
+          title: 'Woody Hartzog and I wrote a case study for the MIT Social and...',
+          description: "",
+          section: "News",},{id: "news-thrilled-to-learn-that-fellow-aligner-jessica-massie-and-the-m-s-research-assistant-i-m-working-with-jonathan-chery-have-been-accepted-into-the-phd-program-here-in-boston-looking-forward-to-collaborating-with-you-in-the-fall",
+          title: 'Thrilled to learn that fellow ALIGNer Jessica Massie, and the M.S. research assistant...',
+          description: "",
+          section: "News",},{id: "news-210429-ftcpanel",
+          title: '210429_ftcpanel',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/210429_ftcpanel/";
+            },},{id: "news-210508-chidpworkshop",
+          title: '210508_chidpworkshop',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/210508_chidpworkshop/";
+            },},{id: "news-our-seton-hall-law-review-article-on-privacy-pandemic-and-problems-is-now-available-in-vol-51-iss-5",
+          title: 'Our Seton Hall Law Review article on privacy, pandemic, and problems is now...',
+          description: "",
+          section: "News",},{id: "news-completed-a-wonderful-summer-internship-with-common-sense-media-s-privacy-program-team",
+          title: 'Completed a wonderful summer internship with Common Sense Media’s Privacy Program team. 🌴...',
+          description: "",
+          section: "News",},{id: "news-i-presented-our-work-on-comparative-work-on-dark-patterns-in-modalities-at-cscw-21-despite-some-virtual-conference-technical-difficulties-following-attendance-at-an-awesome-workshop-on-privacy-design-and-iot-the-day-before",
+          title: 'I presented our work on comparative work on dark patterns in modalities at...',
+          description: "",
+          section: "News",},{id: "news-many-thanks-to-the-computing-research-association-for-allowing-me-to-attend-the-2022-grad-cohort-for-women-in-new-orleans-lovely-to-learn-from-so-many-amazing-women-in-cs-research-and-meet-peers-in-person",
+          title: 'Many thanks to the Computing Research Association for allowing me to attend the...',
+          description: "",
+          section: "News",},{id: "news-had-a-wonderful-time-volunteering-and-presenting-a-draft-at-my-first-in-person-plsc22-here-s-to-many-more-years-of-great-discussions-and-learning-from-this-brilliant-community",
+          title: 'Had a wonderful time volunteering and presenting a draft at my first in-person...',
+          description: "",
+          section: "News",},{id: "news-excited-to-start-a-summer-internship-at-vimeo-where-i-ll-be-on-the-governance-risk-compliance-and-privacy-team",
+          title: 'Excited to start a summer internship at Vimeo, where I’ll be on the...',
+          description: "",
+          section: "News",},{id: "news-our-cristiana-santos-irene-kamara-and-myself-paper-on-dark-patterns-harms-and-opportunities-for-redress-was-accepted-to-the-2nd-acm-symposium-on-computer-science-and-law-more-news-soon-looking-forward-to-presenting-our-case-study-and-learnings-in-washington-d-c-this-november",
+          title: 'Our (Cristiana Santos, Irene Kamara, and myself) paper on dark patterns harms and...',
+          description: "",
+          section: "News",},{id: "news-our-kentrell-owens-pardis-emami-naeini-dave-choffnes-yoshi-kohno-franzi-roesner-and-myself-user-study-on-deceptive-design-in-voice-assistants-was-accepted-to-the-2022-european-symposium-on-usable-security-keep-an-eye-out-for-it-in-karlsruhe-germany-this-september",
+          title: 'Our (Kentrell Owens, Pardis Emami-Naeini, Dave Choffnes, Yoshi Kohno, Franzi Roesner, and myself)...',
+          description: "",
+          section: "News",},{id: "news-an-author-preprint-of-our-cristiana-santos-irene-kamara-and-myself-paper-on-dark-patterns-harms-and-opportunities-for-redress-for-the-2nd-acm-symposium-on-computer-science-and-law-is-now-available-here",
+          title: 'An author preprint of our (Cristiana Santos, Irene Kamara, and myself) paper on...',
+          description: "",
+          section: "News",},{id: "news-today-was-my-final-day-interning-with-the-wonderful-governance-risk-compliance-and-privacy-team-at-vimeo-deeply-grateful-for-this-opportunity-and-experience",
+          title: 'Today was my final day interning with the wonderful Governance, Risk, Compliance and...',
+          description: "",
+          section: "News",},{id: "news-an-author-preprint-of-our-kentrell-owens-pardis-emami-naeini-dave-choffnes-yoshi-kohno-franzi-roesner-and-myself-user-study-on-deceptive-design-in-voice-assistants-for-the-2022-european-symposium-on-usable-security-is-available-here-keep-an-eye-out-for-kentrell-s-presentation-in-karlsruhe-germany-later-this-month",
+          title: 'An author preprint of our (Kentrell Owens, Pardis Emami-Naeini, Dave Choffnes, Yoshi Kohno,...',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-presenting-our-dark-patterns-in-modalities-work-in-a-panel-of-fellow-ux-scholars-at-the-ftc-s-privacycon-colleagues-from-the-properdata-project-will-share-work-on-data-broker-bias-vr-privacy-and-voice-assistant-profiling-at-privacycon-as-well",
+          title: 'I’ll be presenting our dark patterns in modalities work in a panel of...',
+          description: "",
+          section: "News",},{id: "news-kentrell-owens-gave-an-awesome-presentation-on-our-user-study-on-deceptive-design-in-voice-assistants-in-karlsruhe-at-eurousec-22",
+          title: 'Kentrell Owens gave an awesome presentation on our user study on deceptive design...',
+          description: "",
+          section: "News",},{id: "news-it-s-a-busy-week-catch-me-speaking-at-the-ftc-s-privacycon-at-3-25pm-est-tuesday-11-1-and-at-cslaw-3-45pm-est-wednesday-11-2",
+          title: 'It’s a busy week – catch me speaking at the FTC’s PrivacyCon at...',
+          description: "",
+          section: "News",},{id: "news-thank-you-to-fantastic-moderators-gorana-and-minhee-for-having-me-in-the-dark-patterns-panel-at-privacycon-and-to-the-great-folks-organizing-the-second-acm-cslaw-it-was-lovely-to-learn-from-so-many-talks-spanning-multiple-topics-and-to-present-our-work-as-well-up-next-workshopping-a-paper-in-a-lightning-session-at-the-northeast-privacy-scholars-workshop-11-11",
+          title: 'Thank you to fantastic moderators Gorana and Minhee for having me in the...',
+          description: "",
+          section: "News",},{id: "news-for-those-who-weren-t-able-to-catch-the-cslaw-talk-due-to-a-last-minute-schedule-change-a-lightly-annotated-presentation-deck-is-available-here",
+          title: 'For those who weren’t able to catch the CSLaw talk due to a...',
+          description: "",
+          section: "News",},{id: "news-so-much-gratitude-all-the-detailed-feedback-for-our-paper-in-a-lightning-talk-at-the-northeast-privacy-scholars-workshop-especial-thanks-to-commentator-daniel-susser-and-the-organizers-for-a-wonderful-day-of-learning",
+          title: 'So much gratitude all the detailed feedback for our paper in a lightning...',
+          description: "",
+          section: "News",},{id: "news-a-few-of-the-researchers-from-the-properdata-center-have-just-launched-a-new-podcast-nothing-to-hide-which-shares-the-latest-privacy-research-in-digestible-format-for-everyone-not-just-academics-to-benefit-from-new-findings-tune-in-on-apple-podcasts-google-podcasts-or-spotify-and-learn-more-at-our-website",
+          title: 'A few of the researchers from the ProperData center have just launched a...',
+          description: "",
+          section: "News",},{id: "news-grateful-to-be-awarded-a-scholarship-to-attend-the-2023-women-in-cybersecurity-wicys-conference-i-d-originally-been-ready-to-attend-back-in-march-2020-but-the-world-shut-down-a-week-before-the-conference-hope-to-see-colleagues-there-in-march-next-year",
+          title: 'Grateful to be awarded a scholarship to attend the 2023 Women in Cybersecurity...',
+          description: "",
+          section: "News",},{id: "news-we-re-headed-to-hamburg-our-monica-kowalcyzk-daniel-dubois-dave-choffnes-woody-hartzog-christo-wilson-and-myself-paper-understanding-dark-patterns-in-home-iot-devices-was-accepted-to-chi-2023-preprint-and-more-information-to-come-so-stay-posted",
+          title: 'We’re headed to Hamburg - our (Monica Kowalcyzk, Daniel Dubois, Dave Choffnes, Woody...',
+          description: "",
+          section: "News",},{id: "news-more-exciting-chi-2023-news-a-dark-patterns-panel-emerging-transdisciplinary-perspectives-to-confront-dark-patterns-and-sig-event-dark-patterns-and-the-emerging-threats-of-deceptive-design-practices-with-many-wonderful-members-of-the-dark-patterns-research-community-will-be-held-in-hamburg-this-april-come-visit-the-panel-on-monday-april-24-from-16-35-18-00-and-join-our-sig-on-tuesday-april-25-from-16-35-18-00-more-info-in-the-chi-program",
+          title: 'More exciting CHI’2023 news – a dark patterns panel (Emerging Transdisciplinary Perspectives to...',
+          description: "",
+          section: "News",},{id: "news-now-that-all-the-travel-documents-are-squared-away-i-m-thrilled-to-share-that-i-ll-be-working-with-yixin-zou-as-a-research-intern-this-summer-in-the-new-human-centered-security-and-privacy-group-at-the-max-planck-institute-for-security-and-privacy-mpi-sp-looking-forward-to-experiencing-the-eu-s-data-subject-rights-first-hand-and-working-with-wonderful-people-in-europe-please-send-me-life-in-germany-tips-and-recomemndations",
+          title: 'Now that all the travel documents are squared away, I’m thrilled to share...',
+          description: "",
+          section: "News",},{id: "news-our-woody-hartzog-evan-selinger-and-myself-paper-privacy-nicks-how-the-law-normalizes-surveillance-will-be-published-in-the-2024-volume-of-the-washington-university-law-review-preprint-now-available-on-ssrn",
+          title: 'Our (Woody Hartzog, Evan Selinger, and myself) paper, “Privacy Nicks: How the Law...',
+          description: "",
+          section: "News",},{id: "news-what-a-wonderful-first-in-person-chi-i-had-it-was-great-to-meet-and-have-such-amazing-conversations-with-the-hci-research-community-in-the-dark-patterns-space-many-awesome-papers-were-presented-and-we-held-a-fruitful-sig-and-panel-thank-you-to-all-who-came-to-the-events-to-keep-the-conversations-going-come-join-the-dps-research-community-on-slack",
+          title: 'What a wonderful, first in-person CHI I had! It was great to meet...',
+          description: "",
+          section: "News",},{id: "news-started-work-in-yixin-zou-s-new-human-centered-security-and-privacy-group-at-the-max-planck-institute-for-security-and-privacy-mpi-sp-it-s-gonna-be-a-great-summer",
+          title: 'Started work in Yixin Zou’s new Human-Centered Security and Privacy group at the...',
+          description: "",
+          section: "News",},{id: "news-thrilled-to-be-at-plsc-23-thank-you-to-session-participants-on-great-feedback-on-our-paper-on-the-evidentiary-requirements-for-dark-patterns-looking-forward-to-the-rest-of-the-sessions",
+          title: 'Thrilled to be at PLSC’23 – thank you to session participants on great...',
+          description: "",
+          section: "News",},{id: "news-attended-my-first-pets-in-beautiful-lausanne-i-m-looking-forward-to-the-upcoming-year-as-a-program-committee-member-for-pets-24",
+          title: 'Attended my first PETS in beautiful Lausanne. I’m looking forward to the upcoming...',
+          description: "",
+          section: "News",},{id: "news-wrapped-up-my-internship-at-mpi-sp-and-left-germany-looking-forward-to-continuing-our-project-remotely-and-being-back-home-in-boston",
+          title: 'Wrapped up my internship at MPI-SP and left Germany! Looking forward to continuing...',
+          description: "",
+          section: "News",},{id: "news-thankful-to-have-attended-privaci-on-an-nsf-student-travel-grant-i-learned-so-much-from-the-brilliant-work-presented-thank-you-to-the-organizers-for-a-fantastic-event",
+          title: 'Thankful to have attended PrivaCI on an NSF Student Travel Grant. I learned...',
+          description: "",
+          section: "News",},{id: "news-successfully-proposed-my-thesis-last-week-so-i-m-now-happy-to-share-that-i-ll-be-joining-the-maastricht-university-law-and-tech-lab-as-an-assistant-professor-in-cs-and-law-in-july-2024-thank-you-to-my-wonderful-committee-for-thoughtful-feedback-and-all-who-attended",
+          title: 'Successfully proposed my thesis last week, so I’m now happy to share that...',
+          description: "",
+          section: "News",},{id: "news-calling-all-dark-patterns-and-adjacent-scholars-join-our-chi-24-workshop-mobilizing-research-and-regulatory-action-on-dark-patterns-and-deceptive-design-practices-the-cfp-for-short-position-papers-and-general-attendance-statements-is-open-with-submissions-due-february-14-2024-aoe-the-workshop-will-be-delivered-in-hybrid-format-with-in-person-attendees-in-honolulu-for-the-main-chi-conference",
+          title: 'Calling all dark patterns (and adjacent) scholars: join our CHI’24 workshop, Mobilizing Research...',
+          description: "",
+          section: "News",},{id: "news-looking-forward-to-seeing-international-colleagues-in-may-at-chi-24-for-a-workshop-i-m-co-running-in-honolulu-conpro-24-in-san-francisco-and-plsc-24-in-washington-d-c-lots-to-present-and-lots-to-learn-from-others-see-you-there",
+          title: 'Looking forward to seeing international colleagues in May at CHI’24 (for a workshop...',
+          description: "",
+          section: "News",},{id: "news-thesis-defended-thank-you-to-all-who-came-and-of-course-eternal-thanks-to-my-wonderful-advisors-and-committee",
+          title: 'Thesis defended! Thank you to all who came – and of course eternal...',
+          description: "",
+          section: "News",},{id: "news-our-amogh-pradeep-1-alvaro-feal-david-choffnes-and-woodrow-hartzog-paper-gig-work-at-what-cost-exploring-privacy-risks-of-gig-work-platform-participation-in-the-u-s-has-been-accepted-to-appear-in-pets-2025",
+          title: 'Our (Amogh Pradeep[1], Alvaro Feal, David Choffnes, and Woodrow Hartzog) paper ``Gig Work...',
+          description: "",
+          section: "News",},{id: "news-our-amogh-pradeep-1-alvaro-feal-david-choffnes-and-woodrow-hartzog-paper-gig-work-at-what-cost-exploring-privacy-risks-of-gig-work-platform-participation-in-the-u-s-is-now-live-for-issue-1-here",
+          title: 'Our (Amogh Pradeep[1], Alvaro Feal, David Choffnes, and Woodrow Hartzog) paper ‘‘Gig Work...',
+          description: "",
+          section: "News",},{id: "news-thrilled-to-share-that-our-sarah-gillespie-david-choffnes-christo-wilson-and-woodrow-hartzog-paper-promises-promises-understanding-claims-made-in-social-robot-consumer-experiences-has-been-conditionally-accepted-to-appear-in-chi-2025-this-spring-stay-tuned-for-a-preprint",
+          title: 'Thrilled to share that our (Sarah Gillespie, David Choffnes, Christo Wilson, and Woodrow...',
+          description: "",
+          section: "News",},{id: "news-many-thanks-to-the-wonderful-students-and-faculty-at-indiana-university-s-maurer-school-of-law-for-the-wonderful-centennial-symposium-for-the-indiana-law-review-i-had-a-wonderful-time-presenting-our-w-woodrow-hartzog-neil-richards-david-choffnes-and-christo-wilson-work-framing-dark-patterns-as-disloyal-design-on-to-updating-the-draft-forthcoming-spring-2025",
+          title: 'Many thanks to the wonderful students and faculty at Indiana University’s Maurer School...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
