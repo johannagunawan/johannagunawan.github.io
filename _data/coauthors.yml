@@ -1,34 +1,43 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Hartzog":
+  - firstname: ["Woodrow","W."]
+    url: https://woodrowhartzog.com/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Wilson":
+  - firstname: ["Christo", "C."]
+    url: https://cbw.sh
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Choffnes":
+  - firstname: ["David", "D."]
+    url: https://david.choffnes.com/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Pradeep": 
+  - firstname: ["Amogh Pradeep", "A."]
+    url: https://www.khoury.northeastern.edu/people/amogh-pradeep/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Owens":
+  - firstname: ["Kentrell","K."]
+    url: https://homes.cs.washington.edu/~kentrell/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Emami-Naeini":
+  - firstname: ["Pardis","P."]
+    url: https://users.cs.duke.edu/~pardis/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Santos":
+  - firstname: ["Cristiana","C."]
+    url: https://www.uu.nl/medewerkers/CTeixeiraSantos/Contact
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Roesner":
+  - firstname: ["Franziska","F."]
+    url: https://www.franziroesner.com/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Kohno":
+  - firstname: ["Tadayoshi","T."]
+    url: https://homes.cs.washington.edu/~yoshi/
+
+"Kamara":
+  - firstname: ["Irene","I."]
+    url: https://www.tilburguniversity.edu/staff/i-kamara
+
+"Gray":
+  - firstname: ["Colin","C."]
+    url: https://colingray.me/
