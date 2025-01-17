@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: technical difficulties # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: musings on our shared cyberpunk dystopia
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
