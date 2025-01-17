@@ -2,96 +2,133 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Johanna Gunawan
+    #- name: Date of Birth
+    #  value: 14th March 1879
+    #- name: Languages
+    #  value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Cybersecurity
+      institution: Northeastern University, Boston, Massachusetts (USA)
+      year: 2024
+      #description:
+      #  - Description 1.
+      #  - Description 2.
+      #  - title: Description 3.
+      #    contents:
+      #      - Sub-description 1.
+      #      - Sub-description 2.
+    - title: M.S. in Cybersecurity
+      institution: Northeastern University, Boston, Massachusetts (USA)
+      year: 2020
+      #description:
+      #  - Description 1.
+      #  - Description 2.
+    - title: Graduate Certificate in Computer Science
+      institution: Northeastern University, Boston, Massachusetts (USA)
+      year: 2018
+    - title: B.A. in Political Science and International Affairs (summa cum laude)
+      institution: Northeastern University, Boston, Massachusetts (USA)
+      year: 2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor of Computer Science and Law
+      institution: Maastricht University, Maastricht, The Netherlands
+      year: 2024-present
+      #description:
+      #  - Description 1.
+      #  - Description 2.
+      #  - title: Description 3.
+      #    contents:
+      #      - Sub-description 1.
+      #      - Sub-description 2.
+    - title: Graduate Research Assistant
+      institution: Northeastern University, Boston, Massachusetts, USA
+      year: 2019-2024
+      #description:
+        #- Description 1.
+        #- Description 2.
+
+    - title: Visiting Scholar Intern, Human-Centered Security and Privacy Group
+      institution: Max Planck Institute for Security and Privacy, Bochum, Germany
+      year: 2023-2023
+
+    - title: Intern, Security - Governance, Risk, Compliance, and Privacy
+      institution: Vimeo, Inc., New York City, New York (Remote)
+      year: 2022-2022
+
+    - title: Privacy Intern
+      institution: Common Sense Media, San Francisco, California (Remote)
+      year: 2021-2021
+
+    - title: Technical UX Writer
+      institution: Rapid7 LLC, Boston, Massachusetts
+      year: 2018-2019
+
+    - title: Technical Writer (Network Standards)
+      institution: Akamai Technologies, Cambridge, Massachusetts
+      year: 2017-2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Junior Technical Writer and Product Management Associate
+      institution: Smartleaf, Inc., Cambridge, Massachusetts
+      year: 2016-2017
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Executive Vice-Chair and Boston Site Coordinator
+      institution: The 68th Japan-America Student Conference, Washington, D.C.
+      year: 2015-2016
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Legal and Compliance Co-op
+      institution: Wellington Management Company LLP, Boston, Massachusettts
+      year: 2015-2015
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Digital Marketing Co-op
+      institution: Millward Brown Digital, Boston, Massachusetts
+      year: 2014-2014
+
+    - title: Marketing Intern
+      institution: Next Mile Project (Dhar LLP), Boston, Massachusetts
+      year: 2013-2013
+
+
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - ALIGN Scholar
+        - Huntington 100
+        - Sean Patrick O'Rouke Scholar
+    #- year: 2029
+    #  items:
+    #    - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computer Science
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Dark patterns, UX, and design
+        - Usable security and privacy
+        - Emerging technologies
+    - title: Technology Policy
       items:
-        - Description 1.
-        - Description 2.
+        - Digital consumer protections
+        - Data protection and privacy
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Cooking, travel, chasing after four pets
