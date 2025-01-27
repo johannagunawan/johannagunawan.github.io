@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Under construction; apologies for the mess. Use the PDF copy wherever possible.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "post-on-the-escapability-of-marketing-emails",
       
         title: "On the escapability of marketing emails",
