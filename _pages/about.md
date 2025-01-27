@@ -26,3 +26,5 @@ In industry, I've interned at [Common Sense Media's Privacy Program](https://pri
 
 Academically, I've been a visiting PhD intern with [Yixin Zou](https://yixinzou.github.io/) at the [Max Planck Institute of Security and Privacy](https://www.mpi-sp.org/), and earned my M.S. in Cybersecurity as an [ALIGN Scholar](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) as well as a B.A. in Political Science & International Affairs at Northeastern University.
 
+[More info in my __CV.__](https://johannagunawan.com/assets/pdf/JTG_CV.pdf)
+
