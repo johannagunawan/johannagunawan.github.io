@@ -34,6 +34,17 @@ ninja.data = [{
           window.location.href = "/blog/2022/xfinity-email-opts/";
         
       },
+    },{id: "post-on-the-escapability-of-marketing-emails",
+      
+        title: "On the escapability of marketing emails",
+      
+      description: "Notes from a personal experience with Xfinity&#39;s email advertisements",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2022/xfinity-email-opts-copy/";
+        
+      },
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -175,8 +186,14 @@ ninja.data = [{
           section: "News",},{id: "news-many-thanks-to-the-wonderful-students-and-faculty-at-indiana-university-s-maurer-school-of-law-for-the-wonderful-centennial-symposium-for-the-indiana-law-review-i-had-a-wonderful-time-presenting-our-w-woodrow-hartzog-neil-richards-david-choffnes-and-christo-wilson-work-framing-dark-patterns-as-disloyal-design-on-to-updating-the-draft-forthcoming-spring-2025",
           title: 'Many thanks to the wonderful students and faculty at Indiana University’s Maurer School...',
           description: "",
+          section: "News",},{id: "news-delighted-to-share-that-our-colin-gray-cristiana-santos-and-nataliia-bielova-work-titled-leveraging-interdisciplinary-methods-for-evidence-collection-in-enforcement-dark-patterns-as-a-case-study-has-been-accepted-for-a-special-issue-in-the-internet-policy-review-on-the-craft-of-interdisciplinary-research-and-methods-in-public-interest-cybcersecurity-privacy-and-digital-rights-governance-we-re-working-on-revising-the-work-stay-tuned-for-a-preprint",
+          title: 'Delighted to share that our (Colin Gray, Cristiana Santos, and Nataliia Bielova) work...',
+          description: "",
           section: "News",},{id: "news-thrilled-to-share-that-our-sarah-gillespie-david-choffnes-christo-wilson-and-woodrow-hartzog-paper-promises-promises-understanding-claims-made-in-social-robot-consumer-experiences-has-been-conditionally-accepted-to-appear-in-chi-2025-this-spring-stay-tuned-for-a-preprint",
           title: 'Thrilled to share that our (Sarah Gillespie, David Choffnes, Christo Wilson, and Woodrow...',
+          description: "",
+          section: "News",},{id: "news-we-ll-katie-seaborn-colin-gray-thomas-mildner-rené-schäfer-lorena-sanchez-chamorro-and-satoshi-nakamura-be-running-a-sig-at-chi-2025-global-and-transdisciplinary-perspectives-on-dark-patterns-and-deceptive-design-practice-if-you-re-attending-in-person-in-april-come-join-us-in-understanding-extant-gaps-in-dark-patterns-scholarship-and-build-community",
+          title: 'We’ll (Katie Seaborn, Colin Gray, Thomas Mildner, René Schäfer, Lorena Sanchez-Chamorro, and Satoshi...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
