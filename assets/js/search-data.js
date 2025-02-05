@@ -34,17 +34,6 @@ ninja.data = [{
           window.location.href = "/blog/2022/xfinity-email-opts/";
         
       },
-    },{id: "post-on-the-escapability-of-marketing-emails",
-      
-        title: "On the escapability of marketing emails",
-      
-      description: "Notes from a personal experience with Xfinity&#39;s email advertisements",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2022/xfinity-email-opts-copy/";
-        
-      },
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
