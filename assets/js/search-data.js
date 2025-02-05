@@ -181,7 +181,7 @@ ninja.data = [{
           section: "News",},{id: "news-thrilled-to-share-that-our-sarah-gillespie-david-choffnes-christo-wilson-and-woodrow-hartzog-paper-promises-promises-understanding-claims-made-in-social-robot-consumer-experiences-has-been-conditionally-accepted-to-appear-in-chi-2025-this-spring-stay-tuned-for-a-preprint",
           title: 'Thrilled to share that our (Sarah Gillespie, David Choffnes, Christo Wilson, and Woodrow...',
           description: "",
-          section: "News",},{id: "news-we-ll-katie-seaborn-colin-gray-thomas-mildner-rené-schäfer-lorena-sanchez-chamorro-and-satoshi-nakamura-be-running-a-sig-at-chi-2025-global-and-transdisciplinary-perspectives-on-dark-patterns-and-deceptive-design-practice-if-you-re-attending-in-person-in-april-come-join-us-in-understanding-extant-gaps-in-dark-patterns-scholarship-and-build-community",
+          section: "News",},{id: "news-we-ll-katie-seaborn-colin-gray-thomas-mildner-rené-schäfer-lorena-sanchez-chamorro-and-satoshi-nakamura-be-running-a-sig-at-chi-2025-global-and-transdisciplinary-perspectives-on-dark-patterns-and-deceptive-design-practice-if-you-re-attending-in-person-in-april-come-join-us-in-understanding-extant-gaps-in-dark-patterns-scholarship-and-build-community-ore-information-here-https-chi2025-darkpatternsresearchandimpact-com",
           title: 'We’ll (Katie Seaborn, Colin Gray, Thomas Mildner, René Schäfer, Lorena Sanchez-Chamorro, and Satoshi...',
           description: "",
           section: "News",},{id: "projects-project-1",
