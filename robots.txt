@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://johannagunawan.github.io/sitemap.xml
+User-agent: * Disallow: User-Agent: ia_archiver Disallow: / Sitemap: https://johannagunawan.github.io/sitemap.xml
