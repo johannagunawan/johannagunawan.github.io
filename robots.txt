@@ -4,4 +4,7 @@ permalink: /robots.txt
 User-agent: *
 Disallow:
 
+User-Agent: ia_archiver
+Disallow: /
+
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
