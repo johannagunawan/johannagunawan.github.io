@@ -8,9 +8,9 @@ subtitle: <a href="https://www.maastrichtuniversity.nl/">Maastricht University</
 profile:
   align: right
   image: doggo.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Maastricht, The Netherlands</p>
+    my dog at Constitution Beach, MA
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
