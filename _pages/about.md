@@ -7,11 +7,10 @@ subtitle: <a href="https://www.maastrichtuniversity.nl/">Maastricht University</
 
 profile:
   align: right
-  image: jtg_crop.jpg
-  image_circular: false # crops the image to make it circular
+  image: doggo.png
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Bouillonstraat 1-3</p>
-    <p>6221LH Maastricht, Netherlands</p>
+    <p>Maastricht, The Netherlands</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
